@@ -2,7 +2,7 @@
 
 > _"ZIO Mock не может — ScalaMock поможет!"_ (Russian talk title)
 
-Source code examples for the F[Scala] 2025 presentation on using ScalaMock with ZIO applications.
+Source code examples for the [F[Scala] 2025](https://yandex.ru/project/verticals/fscala-2025) presentation on using ScalaMock with ZIO applications.
 
 ## Overview
 
